@@ -1,5 +1,156 @@
-CA3 INTRODUCTION
-Objective of the project
-Description of the project
-Scope of the project
-Target system description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      
+
+CA-3
+
+INT-301: Open Source and Technologies
+
+
+
+Name of the student: Desu Yadidya
+
+Registration Number: 11911044
+
+Roll no:66.
+
+GitHub Link:
+https://github.com/yadidya-desu/int301/blob/master/ca3.doc
+
+
+Name of faculty: Dr Manjot Kaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.INRODUCTION
+
+1.1 Objective of the project:
+Using desired Open-Source Software provide details of the motherboard, network, storage devices, and display. Also, create an HTML report of everything and create favourites to have instant access to any hardware component from the menu bar.
+
+
+1.2 Description of the project:
+Win Audit is an inventory utility for Windows computers It creates a comprehensive report on a machine's configuration, hardware and software.
+Win Audit is a totally free application which quickly scans your PC and then provides you with information about installed hardware components, software applications, operating system information, hard drive and memory details, and more Win Audit is an inventory utility for Windows computers. It creates a comprehensive report on a machine's configuration, hardware and software.
+
+
+1.3 Scope of the project:
+Open-source fosters ingenuity; programmers can use pre-existing code to improve the software and even come up with their own innovations. Open source comes with a built-in community that continuously modifies and improves the source code. Open source provides great learning opportunities for new programmers Through the analysis of Windows security and systems events, Windows auditing can identify steps to improve security management and reduce the risk of unauthorized access and unwanted changes to your systems Win Audit can be handy to create a software compliance report, hardware inventory, security audit of servers and so on. The available data can also be saved in Text, PDF, CSV, HTML, and XML format. 
+Win Audit is a free software program that allows users to audit and analyse their computer hardware and software configuration. The software can collect and display a variety of information about the computer system, including hardware components, operating system settings, installed software, and user accounts.
+
+1.4 Scop of the project (2)
+Win Audit is designed to be easy to use and provides a simple, user-friendly interface that displays all the collected information in an organized and easy-to-read format. The software is also highly customizable, allowing users to configure the audit process to collect only the information they need Win Audit is often used by IT professionals and system administrators to quickly gather information about computer systems for troubleshooting, maintenance, or inventory purposes. 
+The software is compatible with a wide range of Windows operating systems, including Windows XP, Vista, 7, 8, and 10. Overall, Win Audit –––is a powerful and reliable tool that provides users with detailed information about their computer systems, helping them to better understand their hardware and software configurations and make informed decisions about their computing needs.
+
+
+
+
+
+
+
+2. System Description
+
+2.1 Target system description:
+
+Win Audit is a free system audit tool designed for Microsoft Windows operating systems. It provides a comprehensive overview of a system's hardware and software configuration. Some of the key features of Win Audit include:
+
+System Information: Win Audit provides detailed information about the system's hardware configuration, including the CPU, motherboard, RAM, and storage devices. It also provides information about the installed software, including the operating system, drivers, and applications.
+
+Network Information: Win Audit can provide information about the system's network configuration, including the network adapters, IP addresses, and DNS servers.
+
+Security Information: Win Audit can also provide security-related information, such as the installed antivirus software and any security updates or patches that have been applied to the system.
+
+Custom Reports: Win Audit allows users to create custom reports based on specific criteria. This feature can be useful for troubleshooting or for generating reports for compliance purposes.
+
+
+2.2 Assumptions and Dependencies:
+
+Assumptions:
+
+1. Win Audit assumes that it is being run on a Windows-based computer. It is not designed to work on other operating systems, such as macOS or Linux.
+2. Win Audit assumes that the user has the necessary administrative permissions to access the information it needs. Without these permissions, the tool may not be able to collect all the data it needs to generate a complete report.
+3. Win Audit assumes that the computer being audited is functioning correctly and that there are no underlying hardware or software issues that could affect the accuracy of the data collected
+
+Dependencies:
+
+1. Win Audit depends on several system files and libraries to operate correctly. These dependencies may change over time as Windows is updated, and it's important to ensure that the version of Win Audit being used is compatible with the version of Windows being audited.
+2. Win Audit may require additional software components, such as .NET Framework, to be installed on the computer being audited. These dependencies should be identified and installed prior to running Win Audit.
+3. Win Audit relies on the accuracy and completeness of the information provided by Windows. If Windows is not providing accurate or complete data, Win Audit may generate inaccurate reports.
+
+Overall, Win Audit can be a useful tool for collecting information about a Windows-based computer. However, users should be aware of these assumptions and dependencies to ensure the tool operates correctly and provides accurate information.
+
+2.3 Functional/Non-Functional Dependencies:
+
+Win Audit is an open-source software tool that performs a comprehensive audit of a Windows operating system, generating a detailed report of the hardware and software configuration of the system. Some of the functional dependencies of Win Audit include:
+
+1. Operating System: Win Audit is designed to work with Windows operating systems. Therefore, it is dependent on the operating system for its functionality.
+2. Administrative Rights: To perform a complete audit, Win Audit requires administrative rights on the system. Without these rights, some components of the system may not be audited.
+3. Hardware Configuration: Win Audit relies on the hardware configuration of the system to generate its report. Therefore, it is dependent on the accuracy of the hardware information provided by the system.
+4. Installed Software: Win Audit scans the system for installed software and generates a report on them. Hence, it depends on the accuracy of the software information provided by the system.
+
+Some of the non-functional dependencies of Win Audit include:
+
+1. Performance: The speed at which Win Audit performs its audit is dependent on the system's hardware and the number of applications running concurrently.
+2. User Interface: The usability of the Win Audit user interface is dependent on the user's familiarity with the tool and their ability to interpret the generated report.
+3. Compatibility: Win Audit’s compatibility with different versions of the Windows operating system is crucial for its functionality. Hence, it is dependent on the compatibility of the operating system with the tool.
+4. Security: Win Audit requires administrative rights to perform its audit, which could pose a security risk if not used carefully. Therefore, it is dependent on the user's ability to manage the tool securely.
+
+
+Analysis Report: Fig 1.1
+
+
+
+
+
+
+
+
+
+
+       
+       
+       
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
